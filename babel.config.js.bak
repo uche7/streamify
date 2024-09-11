@@ -1,0 +1,9 @@
+module.exports = {
+  presets: [
+    "next/babel", // Default Next.js preset, includes React and other configurations
+    "@babel/preset-typescript", // For TypeScript support
+  ],
+  plugins: [
+    // Add any custom Babel plugins you need here
+  ],
+};
